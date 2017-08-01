@@ -1,0 +1,6 @@
+package installation
+package remove
+file create
+file copy from one location to another
+permission change to paticular directory
+file manuplation 
